@@ -37,3 +37,4 @@ Server1, Server2 ve Server3 ayrı ayrı koşturulur.Her serverın Admin ve Clien
 
 
 ## Sunum Videosu Linki
+https://youtu.be/BA9uMwdqIok
